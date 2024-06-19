@@ -1,0 +1,6 @@
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.csproj.AssemblyReference.cache
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.AssemblyInfoInputs.cache
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.AssemblyInfo.cs
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.csproj.CoreCompileInputs.cache
+C:\portfolio\TextBlog\TextBlog\TextBlog\obj\Debug\net6.0\TextBlog.MvcApplicationPartsAssemblyInfo.cache
