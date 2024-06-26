@@ -1,10 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection.Extensions;
-using Microsoft.Extensions.Hosting;
 
 public class StartUp
 {
@@ -12,7 +7,7 @@ public class StartUp
     {
         Configuration = configuration;
     }
-    public IConfiguration Configuration { get; }
+    public IConfiguration Configuration;
 
     public void ConfigureServices(IServiceCollection services)
     {
@@ -57,10 +52,5 @@ public class StartUp
         app.UseAuthentication(); // Использование аутентификации
         app.UseAuthorization(); // Использование авторизации
 
-        app.UseEndpoints(endpoints =>
-        {
-            endpoints.MapRazorPages(); // Настройка маршрутизации для Razor Pages
-        });
     }
-
 }
