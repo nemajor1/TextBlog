@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj": {}
+    "C:\\projects\\Portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj": {}
   },
   "projects": {
-    "C:\\portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj": {
+    "C:\\projects\\Portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj",
+        "projectUniqueName": "C:\\projects\\Portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj",
         "projectName": "TextBlog",
-        "projectPath": "C:\\portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj",
-        "packagesPath": "C:\\Users\\kolai\\.nuget\\packages\\",
-        "outputPath": "C:\\portfolio\\TextBlog\\TextBlog\\TextBlog\\obj\\",
+        "projectPath": "C:\\projects\\Portfolio\\TextBlog\\TextBlog\\TextBlog\\TextBlog.csproj",
+        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\Portfolio\\TextBlog\\TextBlog\\TextBlog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kolai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
